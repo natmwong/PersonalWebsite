@@ -5,11 +5,11 @@
 
 /* STYLE SECTIONING TAGS */
 header {
-  background-color: #3D7535;
+  background-color: #628EC2;
 }
 
 body {
-  background-color: #C0F5B8;
+  background-color: #E3F5E1;
 }
 
 main {
@@ -37,7 +37,7 @@ main {
 /* STYLE TEXT */
 
 h1 {
-  color: #FFFFFF;
+  color: #E3F5E1;
   font-family: "Trebuchet MS", sans-serif;
   text-align: right;
   font-size: 50px;
@@ -45,7 +45,7 @@ h1 {
 }
 
 h2 {
-  color: #FFFFFF;
+  color: #E3F5E1;
   font-family: "Trebuchet MS", sans-serif;
   text-align: center;
   font-size: 30px;
@@ -56,7 +56,7 @@ h2 {
 }
 
 h3 {
-  color: #424F75;
+  color: #4682b4;
   font-family: "Georgia", serif;
   text-align: center;
   font-size: 25px;
@@ -76,15 +76,15 @@ h4{
 }
 
 p {
-  color: #424D42;
-  font-size: 20px;
+  color: #628EC2;
+  font-size: 25px;
   font-height: 150%;
   font-family: "arial", sans-serif;
   text-align: center;
 }
 
 .home {
-  color: #424D42;
+  color: #628EC2;
   font-size: 25px;
   font-height: 150%;
   display: inline;
@@ -93,7 +93,7 @@ p {
 }
 
 .home2 {
-  color: #424D42;
+  color: #628EC2;
   font-size: 25px;
   font-height: 150%;
   display: inline;
@@ -102,7 +102,7 @@ p {
 }
 
 #home3 {
-  color: #424D42;
+  color: #628EC2
   font-size: 25px;
   font-height: 150%;
   display: inline;
@@ -111,7 +111,7 @@ p {
 }
 
 #interests {
-  color: #424F75;
+  color: #4682b4;
   font-family: "verdana", sans-serif;
   text-align: center;
   font-size: 35px;
@@ -141,8 +141,8 @@ img {
 #me {
   max-width: 450px;
   max-height: 40%;
-  border-radius: 50%;
-  border: 3px solid white;
+  border-radius: 150%;
+  border: 3px solid #E3F5E1;
   margin-top: 2em;
   margin-bottom: 1em;
   margin-left: 9em;
@@ -177,7 +177,7 @@ img {
 /* STYLE NAV BAR */
 ul {
   list-style-type: none;
-  background-color: #98C291;
+  background-color: #4682b4;
   overflow: hidden;
   text-align: right;
   padding: 1em;
@@ -189,12 +189,12 @@ li {
 
 li a {
   text-decoration: none;
-  color: #351F34;
+  color: #FFFFFF;
   font-size: 1.3em;
   padding: 1em;
   font-family: "trebuchet MS", sans-serif;
 }
 
 li a:hover {
-  background-color: #F3FCF1;
+  background-color: #C5CCA9;
 }
